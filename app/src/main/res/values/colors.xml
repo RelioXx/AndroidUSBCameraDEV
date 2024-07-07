@@ -6,6 +6,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
 
     <color name="GRAY">#ff808080</color>
+=======
+    <color name="transparent">#00000000</color>
+>>>>>>> parent of 9b0843f ([opt] remove libutils and libcommon)
 </resources>
